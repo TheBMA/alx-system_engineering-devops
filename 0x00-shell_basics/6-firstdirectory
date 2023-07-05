@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /temp/my_first_directory
+mk dir /temp/my_first_directory
